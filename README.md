@@ -81,7 +81,7 @@
 
 ### Built With
 
-* [.Net6][C#10]
+* [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)[C#10]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -128,6 +128,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Amin Amiri Darban -  amin.amiri.darban@hotmail.com
 
 Project Link: [https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected](https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected)
+<br>
 Owner Web Site  : [https://aminamiridarban.ir]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
