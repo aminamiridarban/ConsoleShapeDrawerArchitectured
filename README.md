@@ -18,10 +18,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -177,9 +174,9 @@ Owner Web Site  : [https://aminamiridarban.ir]
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[license-url]: https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/master/LICENSE.txt
+[linkedin-shield]: https://linkedin.com/in/aminamiridarban
+[linkedin-url]: https://linkedin.com/in/aminamiridarban
 [product-screenshot]: images/screenshot.png
 [.Net]: https://avatars.githubusercontent.com/u/9141961?s=200&v=4
 [Next-url]: https://nextjs.org/
