@@ -35,7 +35,7 @@
 
   <p align="center">
     This is a Console Application using .Net6 & C#10 Technology to present my abilities and knowledge about .Net and show my Coding techniques capabilities.   <br />
-    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/tree/master/ConsoleShapeDrawerArchitected"><strong>Explore the docs »</strong></a>
     <br />
           </p>
 </div>
