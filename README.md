@@ -173,9 +173,9 @@ Owner Web Site  : [https://aminamiridarban.ir]
 [stars-url]: https://github.com/github_username/repo_name/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/blob/master/LICENSE
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aminamiridarban
 [product-screenshot]: images/screenshot.png
 [.Net]: https://avatars.githubusercontent.com/u/9141961?s=200&v=4
