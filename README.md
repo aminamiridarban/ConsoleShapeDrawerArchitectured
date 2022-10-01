@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `aminamiridarban`, `ConsoleShapeDrawerArchitected`, `twitter_handle`, `https://www.linkedin/in/aminamiridarban`, `email_client`, `amin.amiri.darban@hotmail.com`, `ConsoleShapeDrawerArchitected`, `This is a Console Application using .Net6 & C#10 Technology to present my abilities and knowledge about .Net and show my Coding techniques capabilities.`
+`aminamiridarban`, `ConsoleShapeDrawerArchitected`, `https://www.linkedin/in/aminamiridarban`, `amin.amiri.darban@hotmail.com`, `ConsoleShapeDrawerArchitected`, `This is a Console Application using .Net6 & C#10 Technology to present my abilities and knowledge about .Net and show my Coding techniques capabilities.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -151,7 +151,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Amin Amiri Darban -  amin.amiri.darban@hotmail.com
 
 Project Link: [https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected](https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected)
-
+Owner Web Site  : [https://aminamiridarban.ir]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
