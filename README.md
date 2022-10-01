@@ -120,10 +120,7 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected.git
    ```
 
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
