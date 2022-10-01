@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ArrowDownLetter" xml:space="preserve">
+    <value> ↓↓↓  </value>
+  </data>
+  <data name="ArrowLetter" xml:space="preserve">
+    <value>»</value>
+  </data>
+  <data name="Author" xml:space="preserve">
+    <value>          ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓ 
+
+         Amin Amiri Darban   ■ +98-912-9587177 ■ amin.amiri.darban@hotmail.com
+      https://www.aminamiridarban.ir ■ https://www.linkedin.com/in/aminamiridarban
+
+          ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓                                       </value>
+  </data>
+  <data name="AvailableColorsMessage" xml:space="preserve">
+    <value>» Please Select Between Below Color « 
+</value>
+  </data>
+  <data name="AvailableOutPutMessage" xml:space="preserve">
+    <value>» Please Enter First Letter or Number Of Each Output Type You Want ::::</value>
+  </data>
+  <data name="AvailableShapesMessage" xml:space="preserve">
+    <value>» Please Enter First Letter or Number Of Each Shape You Want To Draw ::::</value>
+  </data>
+  <data name="BorderMessage" xml:space="preserve">
+    <value>Shape should has border..!
+» Please Enter The Border Color</value>
+  </data>
+  <data name="ConfirmationMessage" xml:space="preserve">
+    <value>» Are You Sure ? (y/n)</value>
+  </data>
+  <data name="ContinueMessage" xml:space="preserve">
+    <value>» Hit ENTER to Continue or Just press Escape to exit the application.</value>
+  </data>
+  <data name="DimensionsMessage" xml:space="preserve">
+    <value> » Please Enter The Dimentions For This Shape ::::</value>
+  </data>
+  <data name="DrawOrStore" xml:space="preserve">
+    <value>» Do you want to draw</value>
+  </data>
+  <data name="Entered" xml:space="preserve">
+    <value>You Entered</value>
+  </data>
+  <data name="FillMessage" xml:space="preserve">
+    <value>Shape should be fill with a color..!
+» Please Enter The Fill Color : </value>
+  </data>
+  <data name="GoodByeMessage" xml:space="preserve">
+    <value>Hope you enjoy the show case result and see you soon.  ; )
+Bye for Now..!
+
+Just hit ESCAPE(Esc) to Exit or the application will terminated automatically after few seconds.</value>
+  </data>
+  <data name="Height" xml:space="preserve">
+    <value>Height</value>
+  </data>
+  <data name="KeyMessage" xml:space="preserve">
+    <value>» Please Press/Input a Key ::::</value>
+  </data>
+  <data name="Length" xml:space="preserve">
+    <value>Length</value>
+  </data>
+  <data name="NeedsValue" xml:space="preserve">
+    <value>needs a valid value in</value>
+  </data>
+  <data name="OutPutMessage" xml:space="preserve">
+    <value>» Requested shape declarations are </value>
+  </data>
+  <data name="Pressed" xml:space="preserve">
+    <value>You Pressed</value>
+  </data>
+  <data name="QuantityMessage" xml:space="preserve">
+    <value>»Please Enter The Number Of Shapes You Want It To Draw« </value>
+  </data>
+  <data name="Radius" xml:space="preserve">
+    <value>Radius Of Circle</value>
+  </data>
+  <data name="RecLength" xml:space="preserve">
+    <value>Length Of Rectangle</value>
+  </data>
+  <data name="RecWidth" xml:space="preserve">
+    <value>Width Of Rectangle</value>
+  </data>
+  <data name="SeparatorChar" xml:space="preserve">
+    <value>―</value>
+  </data>
+  <data name="ShapeCircle" xml:space="preserve">
+    <value>Circle</value>
+  </data>
+  <data name="ShapeRectangle" xml:space="preserve">
+    <value>Rectangle</value>
+  </data>
+  <data name="ShapeSquare" xml:space="preserve">
+    <value>Square</value>
+  </data>
+  <data name="ShapeTriangle" xml:space="preserve">
+    <value>Triangle</value>
+  </data>
+  <data name="SideABLength" xml:space="preserve">
+    <value>Length Of Side A For Triangle</value>
+  </data>
+  <data name="SideACLength" xml:space="preserve">
+    <value>Length Of Side C For Triangle</value>
+  </data>
+  <data name="SideBCLength" xml:space="preserve">
+    <value>Length Of Side B For Triangle</value>
+  </data>
+  <data name="SideLength" xml:space="preserve">
+    <value>Length Of Square</value>
+  </data>
+  <data name="StartDrawingMessage" xml:space="preserve">
+    <value>» So, Let's Start Drawing ...</value>
+  </data>
+  <data name="TriangleMathMessage" xml:space="preserve">
+    <value>This is more a math problem.At point A you have the sides s1, s3 with opposing side s2.The cosine formula then gives
+        2*s1* s3*cos(alpha) = s1 ^ 2 + s3 ^ 2 - s2 ^ 2.
+        Now the cosine is the projection of the angle to the horizontal axis, so you should have
+        x = s3 * cos(alpha) = (s1 ^ 2 + s3 ^ 2 - s2 ^ 2) / (2 * s1)
+        and correspondingly
+        y = sqrt(s3 ^ 2 - x ^ 2).
+        For the test side lengths 3,4,5 this would give
+        x = (3 ^ 2 + (5 ^ 2 - 4 ^ 2)) / (2 * 3) = 3
+        y = sqrt(5 ^ 2 - 3 ^ 2) = 4
+        producing the points for the rectangular triangle.</value>
+  </data>
+  <data name="TryAgainMessage" xml:space="preserve">
+    <value>Let's try again..! » </value>
+  </data>
+  <data name="UnAcceptableVertices" xml:space="preserve">
+    <value>In order to draw the triangle correctly, you must enter acceptable vertices</value>
+  </data>
+  <data name="UnDrawableShape" xml:space="preserve">
+    <value>Sorry, But this shape is undrawable. Seems you forgot to bind some parameters.</value>
+  </data>
+  <data name="UnexpectedError" xml:space="preserve">
+    <value>Some Unexpected Error Raised..!
+Please Inform Developer to solve this issue. ; )</value>
+  </data>
+  <data name="UnKnownKey" xml:space="preserve">
+    <value>The Key you pressed on, is not a recognized as valid key for this step.</value>
+  </data>
+  <data name="UnKnownOutPut" xml:space="preserve">
+    <value>Sorry, There is no known output base on your entry..!</value>
+  </data>
+  <data name="UnKnownShape" xml:space="preserve">
+    <value>Sorry, There is no known shape base on your entry..!</value>
+  </data>
+  <data name="UnStorableShape" xml:space="preserve">
+    <value>Sorry, But this shape is unstoreable. Seems you forgot to bind some parameters.</value>
+  </data>
+  <data name="UnValidInput" xml:space="preserve">
+    <value>» Seems you entered unvalid input value</value>
+  </data>
+  <data name="ValueMessage" xml:space="preserve">
+    <value>» Please Input a Value ::::</value>
+  </data>
+  <data name="Vertice" xml:space="preserve">
+    <value>Vertice</value>
+  </data>
+  <data name="WelcomeMessage" xml:space="preserve">
+    <value>» This is a simple application to humbly present my coding, knowledge and abilities through .Net technology.
+
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ █ ConsoleShapesApp  █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+
+</value>
+  </data>
+  <data name="Width" xml:space="preserve">
+    <value>Width</value>
+  </data>
+  <data name="XSide" xml:space="preserve">
+    <value>The X Side</value>
+  </data>
+  <data name="YSide" xml:space="preserve">
+    <value>The Y Side</value>
+  </data>
+</root>
