@@ -160,7 +160,7 @@ Owner Web Site  : https://aminamiridarban.ir
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
 [license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/blob/master/LICENSE
+[license-url]: https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/aminamiridarban
 [product-screenshot]: images/screenshot.png
