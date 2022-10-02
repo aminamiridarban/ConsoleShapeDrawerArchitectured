@@ -18,12 +18,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
+[![C# Discord](https://badgen.net/discord/members/csharp)](https://discord.gg/csharp)
 
 
 
@@ -38,15 +38,9 @@
 
   <p align="center">
     This is a Console Application using .Net6 & C#10 Technology to present my abilities and knowledge about .Net and show my Coding techniques capabilities.   <br />
-    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/tree/master/ConsoleShapeDrawerArchitected"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected">View Demo</a>
-    ·
-    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected/issues">Request Feature</a>
-  </p>
+          </p>
 </div>
 
 
@@ -62,16 +56,14 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+    
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+    
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+            <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -82,9 +74,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://aminamiridarban.ir)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `aminamiridarban`, `ConsoleShapeDrawerArchitected`, `twitter_handle`, `https://www.linkedin/in/aminamiridarban`, `email_client`, `amin.amiri.darban@hotmail.com`, `ConsoleShapeDrawerArchitected`, `This is a Console Application using .Net6 & C#10 Technology to present my abilities and knowledge about .Net and show my Coding techniques capabilities.`
+`aminamiridarban`, `ConsoleShapeDrawer`, `https://www.linkedin/in/aminamiridarban`, `amin.amiri.darban@hotmail.com`, `ConsoleShapeDrawerArchitected`, `This is a Console Application using .Net6 & C#10 Technology to present my abilities and knowledge about .Net and show my Coding techniques capabilities.`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,26 +84,16 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![[.Net]][[.Net]]][[.Net]]
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -120,10 +102,7 @@ This is an example of how to list things you need to use the software and how to
    git clone https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected.git
    ```
 
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -131,7 +110,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Just Run and Enjoy
+The usage of this repository is just for training & tutorials.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -154,7 +133,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Amin Amiri Darban -  amin.amiri.darban@hotmail.com
 
 Project Link: [https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected](https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected)
-
+<br>
+Owner Web Site  : [https://aminamiridarban.ir]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -179,10 +159,10 @@ Project Link: [https://github.com/aminamiridarban/ConsoleShapeDrawerArchitected]
 [stars-url]: https://github.com/github_username/repo_name/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
+[license-url]: https://github.com/aminamiridarban/ConsoleShapeDrawerArchitectured/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/aminamiridarban
 [product-screenshot]: images/screenshot.png
 [.Net]: https://avatars.githubusercontent.com/u/9141961?s=200&v=4
 [Next-url]: https://nextjs.org/
